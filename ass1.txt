@@ -1,0 +1,16 @@
+package practics.example;
+
+public class om {
+
+	public static void main(String[] args) {
+	
+		System.out.println("Adding Numbers");
+		int a = 9; 
+		int b = 21;
+		int sum = b-(-a);
+		System.out.println(sum);
+		
+		
+	}
+
+}
